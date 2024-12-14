@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\CSE\STM\Projects\CA_LAB1\simulation\modelsim
+vcla_64bit
+!i10b 1
+!s100 E6z43:5jN3]A[Ge^UVFkO2
+IOG9hS_XZ>8H98a@oh748Y1
+VF;aZdikjeFCHT4C[feM=V2
+Z1 dD:\CSE\STM\Projects\CA_LAB1\simulation\modelsim
+w1734202577
+8cla_4bit.vo
+Fcla_4bit.vo
+L0 31
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1734202613.395000
+!s107 cla_4bit.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|cla_4bit.vo|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+. -O0

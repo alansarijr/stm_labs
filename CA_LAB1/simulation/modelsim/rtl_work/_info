@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\CSE\STM\Projects\CA_LAB1\simulation\modelsim
+vcla_16bit
+I3j0AoQfJQKkJYHDKzIhJ=0
+VSWo`D7?C9dC_o@0mcUKZj0
+Z1 dD:\CSE\STM\Projects\CA_LAB1\simulation\modelsim
+w1734188510
+8D:/CSE/STM/Projects/CA_LAB1/cla_16bit.v
+FD:/CSE/STM/Projects/CA_LAB1/cla_16bit.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+D:/CSE/STM/Projects/CA_LAB1 -O0
+!i10b 1
+!s100 [_;d2Y[URO`Kk=bkR?gK@0
+!s85 0
+!s108 1734190640.400000
+!s107 D:/CSE/STM/Projects/CA_LAB1/cla_16bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CSE/STM/Projects/CA_LAB1|D:/CSE/STM/Projects/CA_LAB1/cla_16bit.v|
+!s101 -O0
+vcla_4bit
+IUVkUQn3@G`CCnTQgIAfQ[1
+Vz9GMOhfQKX9kSZ6h_<ick0
+R1
+w1734187115
+8D:/CSE/STM/Projects/CA_LAB1/cla_4bit.v
+FD:/CSE/STM/Projects/CA_LAB1/cla_4bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 A_7OBjTC90e[:hTMR5Odg2
+!s85 0
+!s108 1734190640.200000
+!s107 D:/CSE/STM/Projects/CA_LAB1/cla_4bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CSE/STM/Projects/CA_LAB1|D:/CSE/STM/Projects/CA_LAB1/cla_4bit.v|
+!s101 -O0
+vcla_64bit
+!i10b 1
+!s100 e>kd>2YFWgcM]bAK<Ch:Y2
+IOKXNhCJ5m?TTA`7X4dIXb1
+VF;aZdikjeFCHT4C[feM=V2
+R1
+w1734190280
+8D:/CSE/STM/Projects/CA_LAB1/cla_64bit.v
+FD:/CSE/STM/Projects/CA_LAB1/cla_64bit.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1734190640.561000
+!s107 D:/CSE/STM/Projects/CA_LAB1/cla_64bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CSE/STM/Projects/CA_LAB1|D:/CSE/STM/Projects/CA_LAB1/cla_64bit.v|
+!s101 -O0
+R3
+R4
